@@ -16,7 +16,7 @@ fi
 cp -r "$SOURCE_DIR" "$DEST_DIR"
 
 # 切换到 Git 仓库目录
-cd /path/to/proxy-scraper-results
+cd /path/to/proxy-scraper-lists
 
 # Git 提交并推送更改
 git add .
